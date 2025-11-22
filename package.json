@@ -1,5 +1,5 @@
 {
-  "name": "com.example.energyjumper",
+  "name": "com.game.energyjumper",
   "displayName": "EnergyJumper",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
